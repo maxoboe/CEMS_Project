@@ -4,3 +4,6 @@
 *.csv
 *.db-journal
 *.xlsx
+*.xlsm
+*.png
+*checkpoint.ipynb
