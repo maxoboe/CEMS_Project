@@ -1,0 +1,10 @@
+Updating plant/fuel type information - data available yearly
+Try this first: https://ampd.epa.gov/ampd/?bookmark=19141
+If that doesn't work, you'll need to set up a query yourself...
+Data available from https://ampd.epa.gov/ampd/ 
+* Go to the query tab
+* On Programs and Data Sets, select "All Programs" and "Facility Attributes"
+* In Time Frame, select 2001-current year
+* Continue through "Criteria"
+* In Variables, select "County", "Facility Latitutde", "Facility Longitude", "Fuel Type (Primary)", and "Fuel Type (Secondary)"
+* Download the file, unzip the contents to the Y drive directory, and rename the larger file "labels.csv"
