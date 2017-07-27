@@ -153,6 +153,7 @@ cur.executemany("insert into labels (    state, facility_name, orispl_code, unit
     county, latitude, longitude, fuel_type, fule_type_secondary \
 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", to_db)
 con.commit()
+con.close()
 
 print("Combining databases: ")
 
@@ -180,3 +181,4 @@ shutil.rmtree('data')
 shutil.rmtree('unzipped')
 os.remove('to_insert.db')
 
+con.close()
