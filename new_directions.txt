@@ -1,0 +1,9 @@
+Large baseload leaving the grid - worry that there's a reliability problem.
+Are intermittent sources the cause of baseload leaving?
+Is losing baseload a reliability issue?
+How do we educate our policymembers about this issue?
+
+Look for gaps in their studies - what were their assumptions, methodologies, conclusions, are there any knowledge gaps?
+Anything that we can patch?
+Key findings, support for those findings, potential shortcomings 
+Is the grid less reliable today? No it is not. It is more reliable.

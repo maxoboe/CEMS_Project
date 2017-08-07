@@ -1,0 +1,5 @@
+numpy
+sklearn
+pandas
+matplotlib
+ipython-sql
